@@ -1,8 +1,12 @@
-<#
+<# 
 AI & Search Bot Crawlability Tester (robust)
+
 - Tries HEAD, falls back to GET on error/405
 - Never throws; always prints status
 - Captures headers for diagnosis
+
+Provided as part of the internal tooling used at SELJI.com  
+https://selji.com
 #>
 
 $URL = "https://selji.com/panasonic-dp-ub9000-vs-dp-ub820-comparison/"
