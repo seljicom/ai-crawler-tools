@@ -1,3 +1,9 @@
+# 🧰 **SELJI Tools**  
+### Data-Driven Utilities Supporting SELJI.com Research Workflows  
+https://selji.com
+
+---
+
 # 🤖 AI Crawler Tools — Visibility & Crawlability Testing Suite
 
 **Check how AI crawlers, GPTBots, and search bots access your site.**
