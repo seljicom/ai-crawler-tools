@@ -1,9 +1,15 @@
 #!/usr/bin/env bash
+
 # -------------------------------------------------------------
 # AI & Search Bot Crawlability Tester (robust version)
+#
 # Tries HEAD first, falls back to GET if blocked or unsupported.
 # Captures real HTTP code, server header, and method used.
+#
+# Part of the internal tooling approach used at SELJI.com
+# https://selji.com
 # -------------------------------------------------------------
+
 
 URL="https://selji.com/panasonic-dp-ub9000-vs-dp-ub820-comparison/"
 
